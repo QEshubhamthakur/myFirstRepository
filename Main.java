@@ -14,7 +14,7 @@ public class Main {
         4, "Sports", 1, 2000);
         bikeev(rv);
 
-        MotorBike cbr = new MotorBike("CBR 250", 2, 2, "HONDA", 
+        MotorBike cbr = new MotorBike("CBR 2500", 2, 2, "HONDA", 
         4, "Sports", 250, 10, 6);
         cbr.setDiscbrake(true);
         motorbike(cbr);
